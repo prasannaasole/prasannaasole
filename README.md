@@ -12,9 +12,12 @@
 </p>
 -->
 ## Connect with Me
+<p align="center">
+  <a href="mailto:prasannaasole@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-
-[![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannaasole@gmail.com)
 
 <h3 align="left">Languages and Tools I know:</h3>
 
