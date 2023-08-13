@@ -18,10 +18,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasanna-asole/">
+  <a href="https://www.linkedin.com/in/prasanna-asole/" target="_blank">
     <img src="https://img.shields.io/badge/linkedIn-%2300599C.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools I know:</h3>
 
