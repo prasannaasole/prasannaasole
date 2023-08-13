@@ -17,7 +17,11 @@
     <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/prasanna-asole/">
+    <img src="https://img.shields.io/badge/linkedIn-%2300599C.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools I know:</h3>
 
