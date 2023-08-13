@@ -33,7 +33,7 @@
 
 - 📚 **Worked on a project** [Hospital Management System](https://github.com/Chaitya-007/Hospital-Management-DBMS-PROJECT)
 
-- 🌱 I’m currently learning **Data Structure and Algorithms, Web Development and much more.**
+- 🌱 I’m currently learning **Data Structure and Algorithms, Web Development and much more!!!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prasannaasole](https://github.com/prasannaasole)
 
