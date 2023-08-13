@@ -41,7 +41,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uHdAju4nH40etaur2sk-J0wMrz9jgHL_/view?usp=sharing](https://drive.google.com/file/d/1uHdAju4nH40etaur2sk-J0wMrz9jgHL_/view?usp=sharing)
 
-<h2 align="left">Coding Profile:</h2>
+<h2 align="left">Coding Profiles:</h2>
 <p align="left">
 
 <!--
