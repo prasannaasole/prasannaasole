@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate coder who loves learning!!!</h3>
 <img align="center" alt="coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaasole&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaasole" /> </p>
 
 -  Reach Me at: **prasannaasole@gmail.com**
 
@@ -11,7 +10,10 @@
 <a href="https://linkedin.com/in/prasanna-asole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna-asole" height="30" width="40" /></a>
 </p>
 -->
+---
 [![](https://visitcount.itsvg.in/api?id=prasannaasole&icon=9&color=7)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaasole&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaasole" /> </p>
+
 ## Connect with Me
 <p align="center">
   <a href="mailto:prasannaasole@gmail.com">
