@@ -83,6 +83,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasannaasole&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasannaasole&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasannaasole&theme=blue_green)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasannaasole&theme=blue_green)-->
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasannaasole&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasannaasole&theme=blue_green)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prasannaasole&theme=blue_green&utcOffset=8)
