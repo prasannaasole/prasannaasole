@@ -79,7 +79,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannaasole&show_icons=true&locale=en&theme=radical" alt="prasannaasole" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaasole&" alt="prasannaasole" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaasole&theme=radical" alt="prasannaasole" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasannaasole&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasannaasole&theme=blue_green)
