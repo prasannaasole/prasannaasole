@@ -73,8 +73,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaasole&" alt="prasannaasole" /></p>
 -->
+# 📊 GitHub Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasannaasole&show_icons=true&locale=en&layout=compact&theme=radical" alt="prasannaasole" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannaasole&show_icons=true&locale=en&theme=radical" alt="prasannaasole" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaasole&" alt="prasannaasole" /></p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasannaasole&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasannaasole&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasannaasole&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasannaasole&theme=blue_green)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasannaasole&theme=blue_green)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prasannaasole&theme=blue_green&utcOffset=8)
